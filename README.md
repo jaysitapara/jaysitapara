@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Jay Sitapara</h1>
+<h1 align="center">Hi, I'm Jay Sitapara</h1>
 <h3 align="center">MERN Developer from India</h3>
 
 ## 🌐 Socials:
